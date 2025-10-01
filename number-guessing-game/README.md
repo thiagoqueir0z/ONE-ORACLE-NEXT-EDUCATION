@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://img.shields.io/badge/Front--End-HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Front-End Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</div>
+
 ## 🎉 First Project for Oracle Next Education (ONE) with Alura 🎓
 
 Welcome to the repository for my first project developed as part of the Oracle Next Education (ONE) program, in partnership with Alura! 🚀
